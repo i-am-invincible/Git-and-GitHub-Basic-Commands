@@ -7,5 +7,5 @@
 
 
  #### 2. config - introducing you to git with username and email id.
- #### git config.png
- #### git config email.png
+![git config](https://user-images.githubusercontent.com/92079088/195949214-0d078851-308a-40e4-b715-8963d2c87d82.png)
+![git config email](https://user-images.githubusercontent.com/92079088/195949249-7a0f4e15-bdff-4fc8-99ff-47c73428bf29.png)

@@ -2,7 +2,8 @@
  
 Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
-version - To display the version of git present on your machine.
+* version - To display the version of git present on your machine.
+
 
  1. init - To initialize empty Git repository.
 ![git init](https://user-images.githubusercontent.com/92079088/195949034-36ee4509-427f-4360-89e6-7c31091ee34a.png)
@@ -14,7 +15,7 @@ version - To display the version of git present on your machine.
     ![git config](https://user-images.githubusercontent.com/92079088/195949214-0d078851-308a-40e4-b715-8963d2c87d82.png)
 
   b) For email id - 
-    ![git config email](https://user-images.githubusercontent.com/92079088/195949249-7a0f4e15-bdff-4fc8-99ff-47c73428bf29.png)
+![git config email](https://user-images.githubusercontent.com/92079088/195949249-7a0f4e15-bdff-4fc8-99ff-47c73428bf29.png)
 
  3. status - To display the state of the working directory and the staging area.
 
@@ -44,7 +45,7 @@ version - To display the version of git present on your machine.
  8. push - To push the branch or to push the changes in the branch to the GitHub repo.
 
  9. log - 
- 
+
     a) git log - To display all the commits in a repository's history.
 
     b) git log -p-3 - To display last 3 commits in a repository's history. 

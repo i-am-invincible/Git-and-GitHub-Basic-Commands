@@ -123,7 +123,7 @@ Example:- git push origin main
 
  ### 10. merge - To merge the current branch into the specified branch (main).
  ```
-  Example:- git merge branch_name
+  Example:- git merge
   ```
 ![10  git merge](https://user-images.githubusercontent.com/92079088/196057637-0528baa1-2b67-479c-98c4-09c03a16445f.png)
 

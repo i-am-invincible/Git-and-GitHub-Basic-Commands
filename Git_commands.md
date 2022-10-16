@@ -123,13 +123,17 @@ Example:- git push origin main
 
  ### 10. merge - To merge the current branch into the specified branch (main).
  ```
-  Example:- git merge
+  Example:- git merge branch_name
   ```
+![10  git merge](https://user-images.githubusercontent.com/92079088/196057637-0528baa1-2b67-479c-98c4-09c03a16445f.png)
+
 
  ### 11. restore - To unstage or even discard uncommitted local changes.
   ```
 Example:- git restore <filename>
 ```
+![11  git restore](https://user-images.githubusercontent.com/92079088/196057630-d83c728e-6da0-4cb1-b0e9-f04823056fc2.png)
+
 
  ### 12. reset - To undo the recent changes that are to be committed.
   ```
@@ -142,6 +146,8 @@ Example:- git restore <filename>
   ```
   Example:- git stash
   ```
+  ![13  git stash](https://user-images.githubusercontent.com/92079088/196057618-6ba2e748-fe63-4750-a791-3a735dd10c73.png)
+
 
  ### 14. clone - To point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. 
   ```

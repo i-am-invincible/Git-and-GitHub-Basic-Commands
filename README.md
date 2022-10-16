@@ -9,6 +9,7 @@ version - To display the version of git present on your machine.
 
 
  2. config - To introduce git with username and email id.
+
      a)  For username - 
     ![git config](https://user-images.githubusercontent.com/92079088/195949214-0d078851-308a-40e4-b715-8963d2c87d82.png)
 
@@ -18,6 +19,7 @@ version - To display the version of git present on your machine.
  3. status - To display the state of the working directory and the staging area.
 
  4. add - 
+
     a) git add "filename" - To add files to the staging area to track the files.
 
     b) git add . - To add all the files available in the repository.
@@ -26,6 +28,7 @@ version - To display the version of git present on your machine.
  5. commit - To capture a snapshot of the project's currently staged changes.
 
  6. branch - 
+
     a) git branch - To list all the branches and to check the present branch in the Github repo.
 
     b) git branch developer1 - To create a new branch.
@@ -33,6 +36,7 @@ version - To display the version of git present on your machine.
     c) git checkout developer1  - To switch from the new branch and move to the main branch.
 
  7. remote - 
+
     a) git remote add origin - To link the git repository in which user wants to push their local code. It helps in creating connections with other repositories.
 
     b) git remote -v - To list the remote connection user has to other repositories.
@@ -40,6 +44,7 @@ version - To display the version of git present on your machine.
  8. push - To push the branch or to push the changes in the branch to the GitHub repo.
 
  9. log - 
+ 
     a) git log - To display all the commits in a repository's history.
 
     b) git log -p-3 - To display last 3 commits in a repository's history. 

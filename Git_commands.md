@@ -138,9 +138,9 @@ Example:- git restore <filename>
 ![12  git reset](https://user-images.githubusercontent.com/92079088/196054423-09c9c438-5428-41ec-89c4-907177bf57d4.png)
 
 
- ### 13. diff - To track the changes that have not been staged. Usually this command will compare the files in local area with the files in the staging area.
+ ### 13. stash - To take your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy
   ```
-  Example:- git diff
+  Example:- git stash
   ```
 
  ### 14. clone - To point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. 
@@ -157,5 +157,5 @@ Example:- git restore <filename>
 
   ![15  git pull](https://user-images.githubusercontent.com/92079088/196054380-5c3c6607-0e3b-47d2-b6ab-1a28ae536205.png)
 
- ## THANK YOU !
+ ### THANK YOU !
 
